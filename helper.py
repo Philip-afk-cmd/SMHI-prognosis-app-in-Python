@@ -18,7 +18,6 @@ CITIES = {
     "Östersund": (63.1792, 14.6357),
 }
 
-# Håll ikonen ren och låt texten ligga i beskrivningen
 WEATHER_SYMBOLS = {
     1: ("☀️", "Klart"),
     2: ("🌤️", "Lätt molnighet"),
